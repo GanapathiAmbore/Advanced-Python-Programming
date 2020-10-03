@@ -1,0 +1,1 @@
+Python 2.6 is now in bugfix-only mode; no new features are being added. Dozens of bugs reported since the release of 2.6.1 have been fixed. The NEWS file lists every change in each alpha, beta, and release candidate of Python 2.6.
